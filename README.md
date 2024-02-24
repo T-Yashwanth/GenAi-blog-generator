@@ -1,1 +1,0 @@
-# GenAi-blog-generator
